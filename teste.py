@@ -53,7 +53,7 @@ def main():
     #     {"caminho": laudo, "campo": "UF_CRM_1727210242545", "nome": "laudo"}])
     #termo_garantia = ler_pdf_em_bytes("docs/TERMO DE GARANTIA 2024.pdf")
 
-    card = bitrix.deal_get('48466')
+    card = bitrix.deal_get('74964')
     #print(type(card.get('STAGE_ID')))
     #print(card["UF_CRM_1746543811"])
     print(card["UF_CRM_1727204729359"])

@@ -216,6 +216,8 @@ def material_correspondente(codigo: str) -> str:
             return "Tanque fechado"
         case "8058":
             return "Cisterna"
+        case "8064":
+            return "Biodigestor"
         case _: 
             return " "
 
