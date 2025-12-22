@@ -245,6 +245,10 @@ def capacidade_correspondente(codigo: str) -> str:
             return "20000 litros"
         case "7808":
             return "3000 litros"
+        case "8080":
+            return "1500 litros"
+        case "8084":
+            return "2500 litros"
         case _:
             return ""
 

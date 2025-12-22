@@ -56,7 +56,7 @@ def main():
     card = bitrix.deal_get('74964')
     #print(type(card.get('STAGE_ID')))
     #print(card["UF_CRM_1746543811"])
-    print(card["UF_CRM_1727204729359"])
+    print(card["UF_CRM_1727204841910"])
     #print(capacidade_correspondente(str(card["UF_CRM_1727204841910"])))
     #print(proposta_correspondente(card["UF_CRM_1746543811"]))
 
